@@ -1,5 +1,6 @@
 Gitの練習
 基本的なワークフローを学んだ
+sample
 
 git add
 git commit
